@@ -15,8 +15,9 @@ O motor de corrente contínua é representado por 3 equações:
 ●	Equação da armadura 
 <p align="center">
   
-<img src="https://s3.amazonaws.com/media.pinterest.com/previews/GnJg61na.jpeg"><br/>
+<img src="[img]https://i.imgur.com/jUPqjAR.jpg[/img]"><br/>
   
 <b>Figura 1.</b>
   
 </p>
+onde e a força eletromotriz,  é a tensão de armadura e  e  são a resistência e a indutância da armadura, respectivamente.
