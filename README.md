@@ -13,11 +13,13 @@ A etapa que faz referência a parte elétrica e eletrônica do sistema, serão a
 O motor de corrente contínua é representado por 3 equações:
 
 ●	Equação da armadura 
+
 <p align="center">
   
-<img src="[img]https://i.imgur.com/jUPqjAR.jpg[/img]"><br/>
+<a href="https://imgur.com/jUPqjAR"><img src="https://i.imgur.com/jUPqjAR.jpg" title="source: imgur.com" /></a>
   
-<b>Figura 1.</b>
   
-</p>
-onde e a força eletromotriz,  é a tensão de armadura e  e  são a resistência e a indutância da armadura, respectivamente.
+onde "e" a força eletromotriz,  é a "ke" tensão de armadura e  e  são a resistência e a indutância da armadura, respectivamente.
+
+●	Equação da força eletromotriz
+
