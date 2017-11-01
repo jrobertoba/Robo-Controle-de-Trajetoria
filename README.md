@@ -15,7 +15,7 @@ O motor de corrente contínua é representado por 3 equações:
 ●	Equação da armadura 
 <p align="center">
   
-<img src="https://i.imgur.com/nJyJisb.png"><br/>
+<img src="https://s3.amazonaws.com/media.pinterest.com/previews/GnJg61na.jpeg"><br/>
   
 <b>Figura 1.</b>
   
