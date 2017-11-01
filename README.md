@@ -13,4 +13,10 @@ A etapa que faz referência a parte elétrica e eletrônica do sistema, serão a
 O motor de corrente contínua é representado por 3 equações:
 
 ●	Equação da armadura 
-
+<p align="center">
+  
+<img src="https://i.imgur.com/nJyJisb.png"><br/>
+  
+<b>Figura 1.</b>
+  
+</p>
