@@ -10,6 +10,7 @@ A etapa que faz referência a parte elétrica e eletrônica do sistema, serão a
 
 2.1 MODELAGEM DO SISTEMA
 
-O motor de corrente contínua é representado por 3 equações: 
+O motor de corrente contínua é representado por 3 equações:
+
 ●	Equação da armadura 
 
